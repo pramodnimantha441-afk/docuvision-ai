@@ -1,4 +1,4 @@
-# 🖋️ DocuVision AI (Hand2Text Pro)
+# DocuVision AI (Hand2Text Pro)
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 Physical note-taking remains the predominant capture method during academic lectures, research discussions, and executive brainstorming. However, handwritten notes suffer from searchability limitations, lack of indexing, and manual archiving friction.
 
