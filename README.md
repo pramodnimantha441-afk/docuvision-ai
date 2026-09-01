@@ -29,18 +29,18 @@ Physical note-taking remains the predominant capture method during academic lect
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- 📸 **Multi-Stage Image Preprocessing:** Adaptive CLAHE contrast enhancement, Hough transform deskewing, and intelligent ruled notebook line suppression.
-- 🧠 **Hybrid Vision-Language OCR:** Combines text localization bounding boxes with Transformer Encoder-Decoder sequence transcription.
-- 📝 **Abstractive AI Summarizer:** Generates executive briefs and action items utilizing Google's `flan-t5-base`.
-- ⚡ **Real-Time Dual-Pane Editor:** High-performance React UI featuring synchronized zoom controls and live text customization.
-- 📄 **Multi-Format Document Archiving:** Instant export to styled Microsoft Word (`.docx`), PDF, and Plain Text formats.
-- 🔐 **Secure Access & Firebase Auth:** Role-based access control with built-in instant evaluation access.
+-  **Multi-Stage Image Preprocessing:** Adaptive CLAHE contrast enhancement, Hough transform deskewing, and intelligent ruled notebook line suppression.
+-  **Hybrid Vision-Language OCR:** Combines text localization bounding boxes with Transformer Encoder-Decoder sequence transcription.
+-  **Abstractive AI Summarizer:** Generates executive briefs and action items utilizing Google's `flan-t5-base`.
+-  **Real-Time Dual-Pane Editor:** High-performance React UI featuring synchronized zoom controls and live text customization.
+-  **Multi-Format Document Archiving:** Instant export to styled Microsoft Word (`.docx`), PDF, and Plain Text formats.
+-  **Secure Access & Firebase Auth:** Role-based access control with built-in instant evaluation access.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 ```mermaid
 graph TD
@@ -56,7 +56,7 @@ graph TD
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 | Layer | Technologies |
 |---|---|
@@ -67,7 +67,7 @@ graph TD
 
 ---
 
-## ⚡ Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Python 3.10 or higher
@@ -108,7 +108,7 @@ npm run dev
 
 ---
 
-## 🔑 Demo Access
+##  Demo Access
 
 For instant evaluation without setting up external authentication, use the built-in credentials:
 
@@ -119,7 +119,7 @@ For instant evaluation without setting up external authentication, use the built
 
 ---
 
-## 📚 API Documentation
+##  API Documentation
 
 Once the backend is running, explore the full interactive OpenAPI specifications at:
 - **Swagger UI:** http://127.0.0.1:8000/docs
@@ -132,13 +132,13 @@ Once the backend is running, explore the full interactive OpenAPI specifications
 
 ---
 
-## 👥 Authors & Acknowledgments
+##  Authors & Acknowledgments
 
 - **Developed by:** Vishwa
 - **Models:** Microsoft TrOCR, Google Flan-T5, EasyOCR, Hugging Face Transformers.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the [MIT License](LICENSE).
